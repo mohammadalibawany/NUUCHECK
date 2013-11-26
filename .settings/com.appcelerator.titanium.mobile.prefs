@@ -1,9 +1,9 @@
 android/ATTR_PROJECT_NAME=NUUCHECK
-android/abi=armeabi-v7a
+android/abi=armeabi
 android/distribute_path=C\:\\Users\\MohammadAli\\Desktop
 android/keystore_alias=buggatti
 android/keystore_password=101089
 android/keystore_path=C\:\\Users\\MohammadAli\\Documents\\NUUCHECK
 android/recent_output=C\:\\Users\\MohammadAli\\Desktop
-android/sdk_version=Google APIs (Android 4.3)
+android/sdk_version=Android 2.3.3
 eclipse.preferences.version=1
