@@ -1,1 +1,12 @@
-Deleted and added repo ...........again
+Notes For Professor
+
+
+Username: user
+
+Password: password
+
+
+
+When the app start at emulator it will give you an error. Click Continue.
+
+The error is beause it cant find GPS Hardware Chip.
